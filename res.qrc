@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/cfg">
+        <file>border.pt</file>
+        <file>borderBY.pt</file>
+        <file>borderUA.pt</file>
+        <file>list.pt</file>
+        <file>tma.pt</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>point.png</file>
+        <file>target.png</file>
+    </qresource>
+</RCC>
